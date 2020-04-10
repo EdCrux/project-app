@@ -1,24 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Getting your wet feef
 
-Things you may want to cover:
+This project help to understands how rails works. For developing we use scaffold command to create a full stack aplication. 
 
-* Ruby version
+## Live demo
 
-* System dependencies
+> [Live demo](https://agile-inlet-80729.herokuapp.com/) 
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+👤 **Eduardo Cruz**
 
-* How to run the test suite
+- Github: [EdCrux](https://github.com/EdCrux)
+- Twitter: [@Eduardo79973490](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](www.linkedin.com/in/edcrux)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
